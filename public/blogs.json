@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "cover_pic": "https://picsum.photos/800/600?random=1",
+        "title": "The Future of AI: Trends to Watch in 2025",
+        "author_img": "https://randomuser.me/api/portraits/men/75.jpg",
+        "author_name": "John Doe",
+        "reading_time": 5,
+        "hashtags": [
+            "#AI",
+            "#Technology",
+            "#Future"
+        ]
+    },
+    {
+        "id": 2,
+        "cover_pic": "https://picsum.photos/800/600?random=2",
+        "title": "10 Ways to Live a More Sustainable Life",
+        "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+        "author_name": "Sarah Green",
+        "reading_time": 7,
+        "hashtags": [
+            "#Sustainability",
+            "#EcoFriendly",
+            "#Lifestyle"
+        ]
+    },
+    {
+        "id": 3,
+        "cover_pic": "https://picsum.photos/800/600?random=3",
+        "title": "How to Start Your Own Online Business in 2025",
+        "author_img": "https://randomuser.me/api/portraits/men/44.jpg",
+        "author_name": "Michael Carter",
+        "reading_time": 6,
+        "hashtags": [
+            "#Business",
+            "#Entrepreneurship",
+            "#Startups"
+        ]
+    },
+    {
+        "id": 4,
+
+        "cover_pic": "https://picsum.photos/800/600?random=4",
+        "title": "Mastering JavaScript: Tips for Beginners",
+        "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+        "author_name": "Emily Smith",
+        "reading_time": 8,
+        "hashtags": [
+            "#JavaScript",
+            "#Programming",
+            "#WebDevelopment"
+        ]
+    },
+    {
+        "id": 5,
+        "cover_pic": "https://picsum.photos/800/600?random=5",
+        "title": "The Ultimate Guide to Building a Workout Routine",
+        "author_img": "https://randomuser.me/api/portraits/men/31.jpg",
+        "author_name": "Alex Johnson",
+        "reading_time": 9,
+        "hashtags": [
+            "#Fitness",
+            "#Workout",
+            "#Health"
+        ]
+    }
+]
